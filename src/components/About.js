@@ -68,19 +68,19 @@ export default function About() {
             </h2>
             <ul className="text-center">
             <li>
-              AI Engineer at <span className="text-primary">IBM</span>
+              AI Engineer at <span className="text-primary">IBM 📺</span>
             </li>
             <li>
-              Data Science at EX-AXONS
+              EX-Data Science at <span className="text-primary">AXON 🧑‍🌾</span>
             </li>
             <li>
-            MSc Environmental Data Science and Machine Learning at <span className="text-primary">Imperial</span>
+            MSc Environmental Data Science and Machine Learning 🧑‍🌾 at <span className="text-primary">Imperial</span>
             </li>
             <li>
-            Bachelor in Mathematics at<span className="text-primary"> Warwick </span>  
+            Bachelor in Mathematics 💯 at<span className="text-primary"> Warwick </span>  
             </li>
             <li>
-              Software Engineering Bootcamp at <span className="text-primary">Le Wagon</span>
+              Software Engineering Bootcamp 🧑‍💻 at <span className="text-primary">Le Wagon</span>
             </li>
           </ul>
           <div className="text-center">
