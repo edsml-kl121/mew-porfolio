@@ -5,7 +5,8 @@ import React from "react";
 import { FaPython } from 'react-icons/fa';
 import { skills } from "../data";
 import { Container, Row, Col } from 'react-bootstrap';
-import Fade from 'react-reveal/Fade';
+// import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 
 export default function Skills() {
   return (

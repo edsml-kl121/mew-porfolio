@@ -6,7 +6,8 @@ import React, { useState } from "react";
 import { projects } from "../data";
 import { Container, Row, Col } from 'react-bootstrap';
 import Card from "./Card"
-import Fade from 'react-reveal/Fade';
+// import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 
 export default function Projects() {
   // const [styles, setStyles] = useState({});

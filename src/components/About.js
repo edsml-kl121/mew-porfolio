@@ -6,7 +6,8 @@ import Mew from "./images/mewv7.png"
 // import { FaLinkedin, FaEnvelope, FaGithub } from 'react-icons/fa';
 import {Container, Row, Col } from "react-bootstrap"
 // import Zoom from 'react-reveal/Zoom';
-import Fade from 'react-reveal/Fade';
+// import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 import { useState } from "react";
 import './About.css'
 
